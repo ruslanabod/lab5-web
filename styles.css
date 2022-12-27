@@ -1,0 +1,30 @@
+.menu {
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
+ .menu a {
+    display: inline-block;
+    width: 16em;
+    padding:30px;
+    text-align: center;
+    background-color: #d2c0d8;
+    border: 1px dashed rgb(70, 10, 99);
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    align-self: center;
+    text-size-adjust: 45px;
+}
+.menu li {
+    display: inline; 
+}
+.menu a:hover{
+    background-color: rgb(57, 13, 68);
+    color: black;
+}
+.h2 {
+    color: rgb(138, 85, 85);
+    text-align: center;
+    font-size: 5ch;
+}
